@@ -1,4 +1,4 @@
-<h2 align="left">Gabriell</h2>
+<h2 align="left">Gabriell Gregorio</h2>
 
 ###
 
